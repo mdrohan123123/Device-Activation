@@ -1,16 +1,1 @@
-[
-    {
-        "device_id": "7a876f490f075cc3",
-        "username": "7a876f490f075cc3",
-        "password": "7a876f490f075cc3",
-        "expirydate": "31-12-2099",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    }
-]
+
